@@ -1,6 +1,7 @@
 # Vukanac.Geometry
 
-**TODO: Add description**
+A group of helper functions for calculations in geometry.
+
 
 ## Installation
 
@@ -10,7 +11,7 @@ by adding `vukanac_geometry` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:vukanac_geometry, "~> 0.1.0"}
+    # {:vukanac_geometry, "~> 0.1.0"}
     {:vukanac_geometry, git: "https://github.com/vukanac/exlib-geometry.git", tag: "0.1.0"}
   ]
 end
